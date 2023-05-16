@@ -1,0 +1,3 @@
+C:\Users\Cindy\source\repos\Labo08.asm\Debug\Labo08.asm.exe
+C:\Users\Cindy\OneDrive\Escritorio\Lab08\Labo08.asm\Debug\Labo08.asm.exe
+C:\Users\Cindy\OneDrive\Escritorio\Lab08\Part1\Debug\Labo08.asm.exe
